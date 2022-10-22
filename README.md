@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @riaars
-- 👀 I’m interested in Front-end development
+- 👀 I’m interested in Front-end and Backend development
 - 🌱 I’m currently learning React-Native
 - 📫 How to reach me riaratnasari@outlook.com
 
