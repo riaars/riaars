@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @riaars
 - 👀 I’m interested in Front-end and Backend development
 - 🌱 I’m currently learning React-Native, NextJS, and k8s
-- 📫 How to reach me riaratnasari@outlook.com
+- 📫 Ping me at https://www.linkedin.com/in/riaratnasari/
 
 <!---
 riaars/riaars is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
