@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @riaars
 - 👀 I’m interested in Front-end and Backend development
-- 🌱 I’m currently learning React-Native
+- 🌱 I’m currently learning React-Native, NextJS, and k8s
 - 📫 How to reach me riaratnasari@outlook.com
 
 <!---
